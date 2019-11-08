@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Name=XKCD Widget
+Comment=For Official RPI LCD.
+Exec=python /home/pi/Desktop/code/xkcd.py
+Icon=/home/pi/Desktop/code/xkcd_logo.PNG
+Path=/home/pi/Desktop/code/
+Terminal=false
+Type=Application
+Categories=Utility;Application;
+StartupNotify=false
